@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="question1">Солнце - это звезда?</string>
+    <string name="question2">Тула - столица Росиии?</string>
+    <string name="question3">Арбуз - это ягода?</string>
+    <string name="question4">2+2=4?</string>
+    <string name="question5">Луна - спутник земли</string>
+</resources>
